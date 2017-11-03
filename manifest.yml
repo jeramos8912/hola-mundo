@@ -1,0 +1,10 @@
+---
+applications:
+- name: AplicacionNodePrueba
+  host: AplicacionNodePrueba
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  disk_quota: 500M
+  services:
+  - Compose for MongoDB-ld
