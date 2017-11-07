@@ -5,6 +5,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  disk_quota: 500M
+  disk_quota: 350M
   services:
   - Compose for MongoDB-ld
